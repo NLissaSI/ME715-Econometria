@@ -1,5 +1,5 @@
 import Pkg
-Pkg.add("WooldridgeDatasets") 
+#Pkg.add("WooldridgeDatasets") 
 Pkg.add("GLM")
 
 using DataFrames
