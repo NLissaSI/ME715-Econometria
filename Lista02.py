@@ -18,6 +18,11 @@ resultado.params
 #dtype: float64
 
 intercepto, cigarros = resultado.params
+
+# Para `cigs` == 0
+intercepto + cigarros * 20 # 119.77190039834969
+
+# Para `cigs` == 20
 intercepto + cigarros * 20 # 109.49645854188189
 # Quando `cigs` for zero, o valor previsto pelo modelo foi 119.77 ounces. Quando `cigs` for 20, o valor previsto foi de 109.50 ounces.
 
