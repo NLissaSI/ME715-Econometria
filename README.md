@@ -1,2 +1,2 @@
 # ME715
-Códigos para a matéria ME715 - Econometria
+Códigos das listas para a matéria ME715 - Econometria
