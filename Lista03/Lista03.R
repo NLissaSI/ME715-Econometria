@@ -1,5 +1,4 @@
 #library(wooldridge)
-
 htv = wooldridge::htv
 head(htv)
 
