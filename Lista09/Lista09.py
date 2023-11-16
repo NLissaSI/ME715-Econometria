@@ -1,5 +1,4 @@
 # Questao 3)
-import pandas as pd
 
 ## Instalando o pacote `pyreadstat`
 !pip install pyreadstat #--quiet
